@@ -4,11 +4,24 @@
     box-sizing: border-box;
 } */
 
-body {
-    background-color: #CCCCCC;
+.titulo-principal {
+    padding-left: 20px;
 }
 
-p, h1 {
+#banner {
+    width: 100%;
+}
+
+.conteudo-principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
     text-align: center;
 }
 
@@ -18,4 +31,25 @@ em strong {
 
 p:nth-child(3) {
     font-size: 20px;
+}
+
+.beneficios {
+    background-color: white;
+    padding: 20px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem-beneficios {
+    width: 50%;
 }
