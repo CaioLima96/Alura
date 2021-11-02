@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioLima96/Alura.git"
+  },
+  "author": "caio vieira lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioLima96/Alura/issues"
+  },
+  "homepage": "https://github.com/CaioLima96/Alura#readme"
+}
